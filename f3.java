@@ -5,7 +5,7 @@ class f1
 	//integer datatype:::    
 	int a = 43;
 	byte b = 87;
-	long c = 56666666L;//define ong in last with L....
+	long c = 56666666L;//define long in last with L....
 	short d = 45;
 
 	//decimal:::
@@ -20,17 +20,14 @@ class f1
 
 	boolean i = true;
 
-	  System.out.println(a);
-	  System.out.println(b);
-	  System.out.println(c);
+      System.out.println(a);
+      System.out.println(b);
+      System.out.println(c);
       System.out.println(d);
       System.out.println(e);
       System.out.println(f);
       System.out.println(g);
       System.out.println(h);
       System.out.println(i);
-
-
-
   }
 }
