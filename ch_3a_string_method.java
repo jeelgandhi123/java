@@ -1,6 +1,6 @@
-class f11
+class ch_3a_string_method
 {
-	public static void main(String[] args) {
+public static void main(String[] args) {
     System.out.print("String method:\n");
     String name="Jeel Gandhi hi";
     System.out.println(name);
