@@ -1,4 +1,4 @@
-class f1
+class ch_1b_sumof3int
 {
 	public static void main(String[] args) {
 	    
