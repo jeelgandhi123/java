@@ -1,6 +1,6 @@
-class f12
+class ch_3b_practise_3
 {
-	public static void main(String[] args) {
+public static void main(String[] args) {
     //problem1.....
     String name="JEEL";
     System.out.println(name.toLowerCase());
