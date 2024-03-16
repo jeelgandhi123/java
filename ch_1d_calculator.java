@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_1d_user_input
+class ch_1d_calculator
 {
 	public static void main(String[] args) {
 		Scanner input= new Scanner(System.in);
