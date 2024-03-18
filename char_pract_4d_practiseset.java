@@ -1,4 +1,4 @@
-class pract_4d_practise4
+class char_pract_4d_practiseset
 {
 	public static void main(String[] args) {
 		//problem1....
