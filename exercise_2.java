@@ -5,7 +5,7 @@ class exercise_2
   public static void main (String[]args)
   {   
       Scanner input = new Scanner(System.in);
-      System.out.println("enter number(0 for stone,1 for paper,2 for scissor):");
+      System.out.print("enter number(0 for stone,1 for paper,2 for scissor):");
       int number=input.nextInt();
       
       if(number==0){
@@ -33,16 +33,7 @@ class exercise_2
       }
       
       
-      if(number==1 && r_no==1){
-          System.out.println("draw");
-      }
-      else if(number==0 && r_no==0){
-          System.out.println("draw");
-      }
-      else if(number==2 && r_no==2){
-          System.out.println("draw");
-      }
-      else if(number==0 && r_no==0){
+      if(number==r_no){
           System.out.println("draw");
       }
       else if(number==0 && r_no==1){
