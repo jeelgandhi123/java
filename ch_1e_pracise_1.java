@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_1f_pracise_1
+class ch_1e_pracise_1
 {
 	public static void main(String[] args) {
 	    //problem1...
