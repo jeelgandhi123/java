@@ -6,7 +6,6 @@ class ch_7c_methodoverloading
     static int multi(int a,int b){
         int c=a+b;
         return c;
-        
     }
     static int multi(int a,int b, int c){
         int d=a+b+c;
