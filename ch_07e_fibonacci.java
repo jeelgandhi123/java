@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_7e_fibonacci
+class ch_07e_fibonacci
 {
     static int fibonaci(int a){
         if(a==0){
