@@ -1,4 +1,4 @@
-class ch_6a_arrays
+class ch_06a_arrays
 {
 	public static void main(String[] args) {
 	System.out.println("arrays.....");
