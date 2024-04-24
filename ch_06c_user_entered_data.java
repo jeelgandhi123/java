@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_6c_user_entered_data
+class ch_06c_user_entered_data
 {
 	public static void main(String[] args) {
 	    
