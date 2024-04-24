@@ -1,4 +1,4 @@
-class ch_6b_multidimension
+class ch_06b_multidimension
 {
 	public static void main(String[] args) {
 		System.out.println("multi-dimension arrays:");
