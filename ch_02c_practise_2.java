@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_2c_practise_2
+class ch_02c_practise_2
 {
   public static void main (String[]args)
   {
