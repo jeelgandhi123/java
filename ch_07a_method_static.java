@@ -1,4 +1,4 @@
-class ch_7a_method_static
+class ch_07a_method_static
 {
     static int sum(int x,int y){
         int z;
