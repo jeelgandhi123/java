@@ -1,4 +1,4 @@
-class ch_1c_define_datatype
+class ch_01c_define_datatype
 {
   public static void main (String[]args)
   {
