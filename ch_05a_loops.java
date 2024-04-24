@@ -1,4 +1,4 @@
-class ch_5a_loops
+class ch_05a_loops
 {
   public static void main (String[]args)
   {   
