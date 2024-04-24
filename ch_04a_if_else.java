@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_4a_if_else
+class ch_04a_if_else
 {
   public static void main (String[]args)
   {
