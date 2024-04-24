@@ -1,4 +1,4 @@
-class ch_5b_break_continue
+class ch_05b_break_continue
 {
 	public static void main(String[] args) {
 		System.out.println("break and continue....");
