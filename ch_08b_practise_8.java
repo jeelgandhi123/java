@@ -30,7 +30,7 @@ class square{
         return (4*side);
     }
 }
-public class ch_8b_practise_8
+public class ch_08b_practise_8
 {
 	public static void main(String[] args) {
 	    //problem1....
