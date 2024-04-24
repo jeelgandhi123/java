@@ -15,7 +15,7 @@ class collage{
         return student_name;
     }
 }
-class ch_9c_constructor
+class ch_09c_constructor
 {
 	public static void main(String[] args) {
 		collage jeel=new collage();
