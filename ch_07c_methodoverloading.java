@@ -1,4 +1,4 @@
-class ch_7c_methodoverloading
+class ch_07c_methodoverloading
 {
     static void multi(){
         System.out.println("example");
