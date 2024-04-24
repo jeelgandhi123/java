@@ -1,4 +1,4 @@
-class ch_3b_practise_3
+class ch_03b_practise_3
 {
 public static void main(String[] args) {
     //problem1.....
