@@ -17,7 +17,7 @@ class employee{
         return name;
     }
 }
-class ch_9b_getter_setter{
+class ch_09b_getter_setter{
     public static void main (String[] args) {
         employee x=new employee();
         
