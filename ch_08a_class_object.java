@@ -10,7 +10,7 @@ class employee{
     }
 }
     
-public class ch_8a_class_object
+public class ch_08a_class_object
 {
 	public static void main(String[] args) {
 		employee jeel=new employee();//object..
