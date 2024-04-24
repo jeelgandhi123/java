@@ -57,7 +57,7 @@ class rectangle{
     
 }
 
-class ch_9e_practise_9
+class ch_09e_practise_9
 {
 	public static void main(String[] args) {
 	//problem1....
