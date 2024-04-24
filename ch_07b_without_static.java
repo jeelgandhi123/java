@@ -1,4 +1,4 @@
-class ch_7b_without_static
+class ch_07b_without_static
 {
     int sum(int a,int b){
        int c;
