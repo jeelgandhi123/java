@@ -25,7 +25,7 @@ class circle{
         }
     }
 } 
-class ch_9a_getter_setter
+class ch_09a_getter_setter
 {
 	public static void main(String[] args) {
 		circle justcheck=new circle();
