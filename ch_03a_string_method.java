@@ -1,4 +1,4 @@
-class ch_3a_string_method
+class ch_03a_string_method
 {
 public static void main(String[] args) {
     System.out.print("String method:\n");
