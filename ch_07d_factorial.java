@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_7d_factorial
+class ch_07d_factorial
 {
     static int fact(int a){
         if(a==0 || a==1){
