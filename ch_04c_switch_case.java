@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class ch_4c_switch_case
+class ch_04c_switch_case
 {
   public static void main (String[]args)
   {
