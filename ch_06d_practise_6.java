@@ -1,4 +1,4 @@
-class ch_6d_practise_6
+class ch_06d_practise_6
 {
 	public static void main(String[] args) {
 	    
