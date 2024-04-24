@@ -23,7 +23,7 @@ class collage{
         return student_name;
     }
 }
-class ch_9d_overloading
+class ch_09d_overloading
 {
 	public static void main(String[] args) {
 		/*collage jeel=new collage();
