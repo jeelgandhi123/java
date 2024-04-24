@@ -1,4 +1,4 @@
-class ch_2b_increment_decrement
+class ch_02b_increment_decrement
 {
   public static void main (String[]args)
   {
