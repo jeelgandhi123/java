@@ -1,4 +1,4 @@
-class ch_7f_practise_7
+class ch_07f_practise_7
 {
     static void table(int n){
        for(int i=1;i<=10;i++){
