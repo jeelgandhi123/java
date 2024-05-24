@@ -1,29 +1,18 @@
 abstract class parent{
-    public parent(){
-        System.out.println("i am constructor of parent class");
-    }
-    public void sayhello(){
-        System.out.println("hello");
-    }
-    abstract public void greet();
+    //make parent class 
+    int parent_age;
+    abstract void basic_info();
+    //becuase of basic_info abstact the parent class is abstact
 }
-
-class child1 extends parent{
-    @Override
-    public void greet(){
-        System.out.println("good morning!");
+class child extends parent{
+    //here aplied inheritance
+    public void basic_info(){
+        System.out.println("hello i am abstact class");
     }
 }
-abstract class child2 extends parent{
-    public void saygood(){
-        System.out.println("i am good !!");
-    }
+class ch_11a_abstract{
+     public static void main (String[] args) {
+    parent p1=new child(); //this line is important
+    p1.basic_info();
 }
-class ch_11a_abstract
-{
-	public static void main(String[] args) {
-    // parent p1=new parent();----------error
-    child1 c1=new child1();
-    // child2 c2=new child2();----------error
-	}
 }
