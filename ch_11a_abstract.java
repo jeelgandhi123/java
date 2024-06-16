@@ -1,18 +1,20 @@
 abstract class parent{
-    //make parent class 
-    int parent_age;
-    abstract void basic_info();
-    //becuase of basic_info abstact the parent class is abstact
+    void love(){
+        System.out.println("the parent is loving his/her child");
+    }
+    abstract void call();
 }
+
 class child extends parent{
-    //here aplied inheritance
-    public void basic_info(){
-        System.out.println("hello i am abstact class");
+    public void call(){
+        System.out.println("the parent is calling his/her child");
     }
 }
-class ch_11a_abstract{
-     public static void main (String[] args) {
-    parent p1=new child(); //this line is important
-    p1.basic_info();
-}
+
+class ch_11a_absract {
+    public static void main(String[] args) {
+       child c1=new child();
+       c1.call();
+       c1.love();
+    }
 }
