@@ -24,7 +24,7 @@ class ch_01e_pracise_1
 	   //problem3...
 	  
 	   System.out.print("enter your name:");
-	   String name= input.nextLine();
+	   String name= input.next();
 	   
 	   System.out.println("hello "+name+" have a good day buddy!!");
 		
