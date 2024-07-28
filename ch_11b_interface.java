@@ -1,31 +1,22 @@
-interface bicycle{
-    void ridding();
-    void ringing();
-    void upplied_break();
+interface fruit{
+    void taste();
+    void eat();
 }
 
-class avoncycle implements bicycle{
-    public void ridding(){
-        System.out.println("someone is ridding the bicycle!!!");
+class mango implements fruit{
+    public void taste(){
+        System.out.println("very taste!!!");
     }
-    public void ringing(){
-        System.out.println("someone is ringing the bell!");
-    }
-    public void upplied_break(){
-        System.out.println("someone is uplieding break");
+    public void eat(){
+        System.out.println("very good !!!");
     }
 }
-class ch_11b_interface {
-    public static void main(String[] args) {
-        avoncycle av1=new avoncycle();
-        av1.ringing();
-        av1.ridding();
-        av1.upplied_break();
-        
-        System.out.println("2nd method!!!");
-        bicycle av2=new avoncycle();
-        av2.ringing();
-        av2.ridding();
-        av2.upplied_break();
-    }
+
+class Main
+{
+	public static void main(String[] args) {
+		mango m1=new mango();
+		m1.taste();
+		m1.eat();
+	}
 }
